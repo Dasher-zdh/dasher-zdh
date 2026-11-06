@@ -1,7 +1,7 @@
 # 👋 你好，我是 冬海
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Linux+%7C+DevOps+%7C+Cloud+Native;%E4%B8%93%E6%B3%A8%E4%BA%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%E4%B8%8E%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%BB%BA%E8%AE%BE;%E6%8E%A2%E7%B4%A2+AI+%E4%B8%8E%E6%99%BA%E8%83%BD%E5%8C%96%E8%BF%90%E7%BB%B4;%E8%AE%A9%E8%BF%90%E7%BB%B4%E6%9B%B4%E9%AB%98%E6%95%88%EF%BC%8C%E8%AE%A9%E7%B3%BB%E7%BB%9F%E6%9B%B4%E5%8F%AF%E9%9D%A0%22" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Linux+%7C+DevOps+%7C+Cloud+Native;%E4%B8%93%E6%B3%A8%E4%BA%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%E4%B8%8E%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%BB%BA%E8%AE%BE;%E6%8E%A2%E7%B4%A2+AI+%E4%B8%8E%E6%99%BA%E8%83%BD%E5%8C%96%E8%BF%90%E7%BB%B4;%E8%AE%A9%E8%BF%90%E7%BB%B4%E6%9B%B4%E9%AB%98%E6%95%88%EF%BC%8C%E8%AE%A9%E7%B3%BB%E7%BB%9F%E6%9B%B4%E5%8F%AF%E9%9D%A0%22" />
 </p>
 
 <p align="center">
