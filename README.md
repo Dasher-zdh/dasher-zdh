@@ -93,8 +93,11 @@
 ## 📊 GitHub 数据统计
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dasher-zdh&show_icons=true&theme=transparent&hide_border=true&title_color=00E5A0&icon_color=00E5A0&text_color=AAAAAA&locale=cn" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasher-zdh&layout=compact&theme=transparent&hide_border=true&title_color=00E5A0&text_color=AAAAAA&locale=cn" />
+  <img src="https://img.shields.io/badge/Linux-运维-00E5A0?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-容器化-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-云原生-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-自动化-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-监控-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 </p>
 
 <p align="center">
